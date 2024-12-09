@@ -1,5 +1,5 @@
-name: Example 1 Hello Push
-on: [push]
+name: Hello 1 Push
+on: [workflow_dispatch]
 
 jobs:
   simple-action:
